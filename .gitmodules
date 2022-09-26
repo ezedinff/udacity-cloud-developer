@@ -1,0 +1,8 @@
+[submodule "project-4/backend"]
+	path = project-4/backend
+	url = https://github.com/ezedinff/serverless-todo-api
+	branch = main
+[submodule "project-4/client"]
+	path = project-4/client
+	url = https://github.com/ezedinff/todo-app
+	branch = main
